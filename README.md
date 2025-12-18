@@ -138,10 +138,12 @@ Contributions are welcome! Feel free to:
 
 This project is open source and available under the MIT License. 
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Himanshu Raturi**
-- GitHub: [@Himanshu0508Raturi](https://github.com/Himanshu0508Raturi)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-raturi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Himanshu0508Raturi)
 
 ## ⚠️ Disclaimer
 
